@@ -7,10 +7,6 @@ as a starter.
 
 ## See the accompanying [description and guide](https://www.notion.so/Methexis-61d9e20bb3c54aae8d5e716aa0f13f12)
 
-> [methexis](https://en.wiktionary.org/wiki/methexis)  •  **Noun**
-• (theater) An originally Ancient Greek form of theatre in which the audience participates and improvises.
-• (philosophy) The relation between a particular and a Platonic form.
-
 ```sh
 .
 ├── img # images extension needs to access
@@ -28,3 +24,8 @@ as a starter.
 │   └── popup.js
 └── rules.js
 ```
+
+
+> [methexis](https://en.wiktionary.org/wiki/methexis)  •  **Noun**
+> - (theater) An originally Ancient Greek form of theatre in which the audience participates and improvises.
+> - (philosophy) The relation between a particular and a Platonic form.
