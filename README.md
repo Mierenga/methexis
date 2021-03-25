@@ -1,5 +1,5 @@
 
-
+![logo](/img/logo.png)
 # methexis
 
 A sample Chrome browser extension that demonstrates the basic structure and can be used
