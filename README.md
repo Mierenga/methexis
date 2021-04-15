@@ -1,11 +1,15 @@
 
+
+
 ![logo](/img/logo.png)
 # methexis
 
 A sample Chrome browser extension that demonstrates the basic structure and can be used
 as a starter.
 
-## See the accompanying [description and guide](https://www.notion.so/Methexis-61d9e20bb3c54aae8d5e716aa0f13f12)
+## See the accompanying [description and guide](https://mike.distro.work/build-a-chrome-extension-with-a-template-methexis)
+
+![banner](/screenshots/banner.png)
 
 ```sh
 .
